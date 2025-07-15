@@ -1,0 +1,12 @@
+User Persona: spez
+-------------------------
+Interests (Top Keywords):
+reddit, will, have, communities, more, from, community, make, like, well
+
+Dominant Tone:
+Neutral
+
+Sample Citations:
+- 'reddit' found in: https://reddit.com/r/Snoo/comments/1lq0zjs/best_snoo_i_could_do/
+- 'will' found in: https://reddit.com/r/u_spez/comments/1kfciml/reddits_next_chapter_smarter_easier_still_human/
+- 'have' found in: https://reddit.com/r/u_spez/comments/1kfciml/reddits_next_chapter_smarter_easier_still_human/

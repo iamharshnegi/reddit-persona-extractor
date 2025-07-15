@@ -1,0 +1,228 @@
+{
+  "posts": [
+    {
+      "type": "post",
+      "title": "Best Snoo I could do.",
+      "text": "[I forgot its ears again.](https://preview.redd.it/j2bbssltqhaf1.png?width=936&amp;format=png&amp;auto=webp&amp;s=1f1e853b0d2e257a84a2798dcde2d7a27c85e70d)",
+      "link": "https://reddit.com/r/Snoo/comments/1lq0zjs/best_snoo_i_could_do/"
+    },
+    {
+      "type": "post",
+      "title": "Reddit\u2019s next chapter: smarter, easier, still human",
+      "text": "Hi everyone,\n\nI haven\u2019t posted in a while\u2014and let\u2019s be honest, when I do show up, it usually means something\u2019s gone sideways (and if it\u2019s not gone sideways, it\u2019s probably about to). But I\u2019d like to communicate with you more regularly and directly about what we\u2019re thinking and building. Many of these ideas come from our conversations with mods and users who participate in programs like Mod Council, Partner Communities, and the User Feedback Collective.\u00a0\n\nWe recently shared our [Q1 earnings results](https://www.reddit.com/r/RDDT/comments/1kcibvm/reddit_announces_q125_earnings_plus_ama/) (TL;DR: Solid quarter). Beyond the numbers, I wanted to highlight a few moments from the start of the year:\n\n* In March, we [released a set of tools](https://www.reddit.com/r/reddit/comments/1j4z42x/making_contributing_easier_on_reddit_new_tools/), including post suggestions, insights, and rule checking, to help users participate successfully in conversations and let mods focus more on leading their communities. Reddit should feel easier to contribute to, especially for first-timers, and these are some of the ways we\u2019re working towards that.\n* [Reddit Answers](https://www.reddit.com/answers)\u2014our AI-powered search tool\u2014is live in nine countries, including the US, UK, and India with support in English and more countries and languages on the way. It\u2019s being used for everything from \u201cwhat\u2019s the best espresso machine\u201d to \u201clast night\u2019s episode of The Last of Us.\u201d Still early, but the vision is simple: make Reddit\u2019s seemingly infinite human knowledge easier to access. Most of the conversations on Reddit happen on posts less than a day old. Reddit Answers unlocks the other 20 years. Reddit Answers doesn\u2019t replace conversations\u2014it\u2019s a quicker path towards them.\n* In the first quarter, \u201creddit\u201d was the 6th most Googled word in the U.S. (and sandwiched between \u201cnews\u201d and \u201ctrump,\u201d which is, I think, Chaotic Neutral on the internet alignment chart), proving that 1) people want what Reddit has and 2) Reddit search isn\u2019t there quite yet, but [we\u2019re right on schedule](https://www.reddit.com/r/announcements/comments/59k22p/comment/d992fwq/?context=1).\u00a0\n* 2.2 million players joined our April Fools\u2019 Day event, [r/field](https://www.reddit.com/r/Field/) (with roughly half in my honor\\*), and it\u2019s an early proof of what\u2019s possible for [games on Reddit](https://www.reddit.com/r/GamesOnReddit/). It\u2019s really special to see people creating their own interactive experiences on our [Developer Platform](https://developers.reddit.com/), and I trust whatever our users come up with will be far more interesting than anything we build ourselves.\n\n[\\*Mentions of \u201cfuck spez\u201d on Reddit](https://preview.redd.it/84rkh6lyzyye1.png?width=1209&amp;format=png&amp;auto=webp&amp;s=c6a2085fa65a9e807116fa75c9f507a4f621d44d)\n\nNext month, Reddit turns 20. Honestly, it blows my mind. A lot has changed on Reddit over the years, and a lot has stayed the same. The core of Reddit\u2019s identity hasn\u2019t changed much\u2014our model is still based on communities, voting, and (mostly) anonymous users, so our conversations remain some of the most real you can find online.\n\nToday, we see Reddit as having two superpowers: community and knowledge. At the end of last year, we updated our mission statement to reflect both: **Empower communities, and make their knowledge accessible to everyone.** This captures both our longstanding work in creating a platform for community and for using Reddit as a source for knowledge.\n\nReddit is unlike any other platform, and that\u2019s by design. While social media feeds you whatever content drives the most engagement, on Reddit, you decide what matters and make it popular through voting. We\u2019re also one of the last major sites that doesn\u2019t require you to sign in to access most features. We do this because we think it\u2019s important, and we believe our open model helps fulfill the internet\u2019s purpose: to bring individuals from all over the world together to discover, engage with, and exchange ideas that matter to them, without barriers and regardless of geography or language.\n\nAnd as we look ahead, we want to double down on these values. Our goal is to make Reddit the best version of itself by being faster, better, and easier to use. Here\u2019s how we\u2019re bringing that vision to life:\n\n**Core product improvements:** Across the platform, we\u2019ll be trying out a range of updates to make things better. We\u2019ll be making it easier to create and read posts and find new subreddits, upgrading profile pages, evolving r/popular, improving wikis, and ~~creating~~ fixing a lot of bugs. We will keep you updated with changes as we go.\u00a0\n\n**Moderation:** Moderators make communities, and by definition, without moderators, there are no communities. Moderating subreddits today can be time-consuming, too manual, and at times frustrating. It can be difficult to recruit new mods, and growing a community from scratch is way too hard. Often, a few folks end up carrying the weight, which isn\u2019t fair or sustainable. Our vision is to shift the primary role of a moderator from policing to community cultivation. We\u2019ll get there with better tools\u2014especially more AI-driven automation\u2014that moderators can choose to use in their communities. Focus groups, early product testing, and feedback loops shape how these systems evolve. u/Go_JasonWaterfalls will share more with mods here soon. I want to sincerely thank the many mods who have joined our councils, groups, and feedback sessions over the last couple of years to help us in this journey.\n\n**Search:** We believe search being great on Reddit will make the whole product better. Increasingly, people come to Reddit with a specific question that likely has been answered a hundred different ways. And whether you\u2019re a first-time visitor or an old.reddit diehard, search should help you get to where you\u2019re going faster. I\u2019m the first to admit, finding what you\u2019re looking for on Reddit hasn\u2019t always (ever) been easy. We\u2019ve made a lot of progress in the last few years and have many more improvements coming this year, including expanding Reddit Answers and integrating it directly into the core search experience.\u00a0\n\n**AI + Humans:** An increasing amount of the content you see online is generated by machines\u2014so how does AI fit into the most human place on the internet? First, AI can be incredibly useful for things like summarization, safety, translation, and moderation. That includes filters that reduce the burden on mods by automatically removing spam, hateful, or violent content. And it powers things like [post guidance](https://support.reddithelp.com/hc/en-us/articles/17625458521748-Automations-Post-Comment-Guidance-Set-Up), which can tell a user whether their post violates a subreddit rule before they submit it\u2014this helps new users learn the rules and also saves mods lots of time. Reddit\u2019s strength is in its people, and we want AI tools that help you do what you\u2019re already doing.\n\nThat said, unwelcome AI in communities is a serious concern. It is the worry I hear most often these days from users and mods alike. **Reddit works because it\u2019s human**. It\u2019s one of the few places online where real people share real opinions. That authenticity is what gives Reddit its value. If we lose trust in that, we lose what makes Reddit\u2026Reddit. Our focus is, and always will be, on keeping Reddit a trusted place for human conversation.\u00a0\n\nAt the same time, anonymity is essential to Reddit. People come here to share experiences they wouldn\u2019t post anywhere else because they know they are safe to do so. To make this possible, historically, Reddit has required practically no information to create an account. We have been\u2014and will continue to be\u2014extremely protective of your personal information, and will continue to push back against excessive or unreasonable demands from public or private authorities. If you want to know more about how we respond to\u00a0 legal requests from governments, law enforcement, and private parties, check out our biannual [Transparency Report](https://redditinc.com/policies/transparency-report-july-to-december-2024).\n\nTo keep Reddit human and to meet evolving regulatory requirements, we are going to need a little more information. Specifically, we will need to know whether you are a human, and in some locations, if you are an adult. But **we never** want to know your name or who you are. The way we will do this is by working with various third-party services that can provide us with the essential information and nothing else. No solution is perfect\u2014including the status quo\u2014but we will do our best to preserve both the humanness and anonymity of Reddit. We will share more as we go.\n\n**Premium content:** You might\u2019ve seen some headlines about \u201cpaid subreddits.\u201d Perhaps those articles were behind paywalls. Let me clarify: we\u2019re not putting Reddit behind a paywall. We are thinking about how to empower communities to monetize through premium experiences and exclusive spaces. One way to do that is by enabling communities to offer a separate space for their most leaned-in members (back in the day, the most loved feature of Reddit Gold was access to r/lounge, and we\u2019d like to reimagine this). This would be an optional feature for communities that [want it](https://docs.google.com/forms/d/e/1FAIpQLSezA2xdhjMYEHkPRdIs4pVXyTB2vtqcPMZ4pQt679Yv1Ef05w/viewform).\n\n**Sunsetting old.reddit:** old.reddit is the version of Reddit that we built back in the mid-2000s. It doesn\u2019t scale, it\u2019s impossible to develop on, and it\u2019s ugly af. We will be shutting it down at the end of the month.\n\nJust kidding. I don\u2019t know why I say stuff like this. We\u2019ll figure out how to work around it and keep it online as long as people are using it.\n\nhttps://preview.redd.it/prh1c0ewzyye1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=3c1fac3e0438d234b04dc5ec2443e7e6962a988d\n\nThank you all for being a part of this. Reddit works because you contribute, upvote, downvote, moderate, and create spaces where real conversations happen. The internet is changing rapidly, and human perspectives have never been more important. More than ever, it\u2019s essential that we share information, express our viewpoints, and find connection.\u00a0\n\nThe last 20 years have proven how powerful online communities can be\u2014and as we look ahead, I\u2019m even more excited for what the next 20 will bring.\n\nThank you,\n\nSteve aka spez",
+      "link": "https://reddit.com/r/u_spez/comments/1kfciml/reddits_next_chapter_smarter_easier_still_human/"
+    },
+    {
+      "type": "post",
+      "title": "Today we\u2019re testing a new way to discuss political ads (and announcements)",
+      "text": "",
+      "link": "https://reddit.com/r/modnews/comments/ipiung/today_were_testing_a_new_way_to_discuss_political/"
+    },
+    {
+      "type": "post",
+      "title": "Reddit is ProCSS",
+      "text": "Hi Mods,\n\nI wanted to follow up on the [CSS and redesign post](https://www.reddit.com/r/modnews/comments/66q4is/the_web_redesign_css_and_mod_tools/) from a few weeks back and provide some more information as well as clarify some questions that have emerged.\n\nBased on your feedback, we will allow you to continue to use CSS on top of the new structured styles. This will be the last part of the customization tool we build as we want to make sure the structured options we are offering are rock solid. Also, please keep in mind that if you do choose to use the advanced option, we will no longer be treading as carefully as we have done in the past about breaking styles applied through CSS^1.\n\nTo give you a sense of our approach, we\u2019re starting with a handful of highly-customized communities (e.g. r/overwatch and r/gameofthrones) and seeing how close we can get to their existing appearance using the new system. Logos, images, colors, spoilers, menus, flairs (all kinds), and lots more will be supported. I know you\u2019d like to see a list of everything, but we think the best approach will be to show instead of tell, which we\u2019re racing to as quickly as possible.\n\nThe widget system I mentioned in the last post isn\u2019t directly related. Many communities have added complex functionality over the years (calendars, scoreboards, etc). A widget system will elevate these features to first-class status on Reddit, with the aim of making them both more powerful and reuseable. Yes, we\u2019re evaluating how we would accept user-created widgets.  We intend for widgets to be able to be updated via the API, so you\u2019ll still be able to create dynamically updating content in your subreddit sidebar.\n\nThis change, and the redesign in general, is going to happen slowly.  We will will not be abruptly cutting everyone over to the new site at once.  We know it won\u2019t be perfect at first (unlike the current site), and plan to include plenty of time to solicit feedback and make iterations.  Sharing our plans for subreddit customization this far advance with you is part of this process.\n\nWe\u2019ll start with a small alpha group and create a subreddit to solicit feedback.  As we continue to add features, we\u2019ll expand the testing group to an opt-in beta.  If you\u2019d like to participate in the alpha please add a reply to [this comment](https://www.reddit.com/r/modnews/comments/6auyq9/reddit_is_procss/dhhmebb/).  Please note, signing up does not guarantee a spot in the alpha.  We want to be able to be responsive to the alpha testers, and keeping the initial group small has proved to be effective in the past.\n\nI\u2019d like thank everyone who has provided feedback on this topic.  There have been some very [constructive](https://www.reddit.com/r/ModSupport/comments/677rba/some_brainstorming_about_potential_widgets_in_the) [threads](https://www.reddit.com/r/ModSupport/comments/66rdiy/crowdsourcing_new_subreddit_widgets/).  I\u2019d also like to take a moment to appreciate how civil the feedback has been.  This is a topic many of you feel passionate about.  Thank you for keeping things constructive.\n\nCool?\n\nCool.\n\n&amp;nbsp;\n\n^1 No snark allowed.",
+      "link": "https://reddit.com/r/modnews/comments/6auyq9/reddit_is_procss/"
+    },
+    {
+      "type": "post",
+      "title": "I hear the feedback on CSS / styles. I\u2019m traveling, but will be back next week to chat more.",
+      "text": "Hey All,\n\nI just wanted to leave a quick note and say we\u2019re listening to all the feedback around CSS / customization. The quietness on my end is because I\u2019m traveling and won\u2019t have a couple hours to chat until next week, and I want to make sure I have time to answer questions. I appreciate all the feedback so far (and the fact that it\u2019s been overwhelmingly polite!).\n\nCheers,\n\nSteve",
+      "link": "https://reddit.com/r/ModSupport/comments/693zcq/i_hear_the_feedback_on_css_styles_im_traveling/"
+    },
+    {
+      "type": "post",
+      "title": "The web redesign, CSS, and mod tools",
+      "text": "Hi Mods,\n\nYou may recall from my [announcement post](https://www.reddit.com/r/announcements/comments/5q4qmg/out_with_2016_in_with_2017/) earlier this year that I mentioned we\u2019re currently working on a full redesign of the site, which brings me to the two topics I wanted to talk to you about today: Custom Styles and Mod Tools.\n\n##**Custom Styles**\n\nCustom community styles are a key component in allowing communities to express their identity, and we want to preserve this in the site redesign. For a long time, we\u2019ve used CSS as the mechanism for subreddit customization, but we\u2019ll be deprecating CSS during the redesign in favor of a new system over the coming months. While CSS has provided a wonderful creative canvas to many communities, it is not without flaws:\n\n* It\u2019s web-only. Increasing users are viewing Reddit on mobile (over 50%), where CSS is not supported. We\u2019d love for you to be able to bring your spice to phones as well.\n* CSS is a pain in the ass: it\u2019s difficult to learn; it\u2019s error-prone; and it\u2019s time consuming.\n* Some changes cause confusion (such as changing the subscription numbers).\n* CSS causes us to move slow. We\u2019d like to make changes more quickly. You\u2019ve asked us to improve things, and one of the things that slows us down is the risk of breaking subreddit CSS (and third-party mod tools).\n\nWe\u2019re designing a new set of tools to address the challenges with CSS but continue to allow communities to express their identities. These tools will allow moderators to select customization options for key areas of their subreddit across platforms. For example, header images and flair colors will be rendered correctly on desktop and mobile.\n\nWe know great things happen when we give users as much flexibility as possible. The menu of options we\u2019ll provide for customization is still being determined. Our starting point is to replicate as many of the existing uses that already exist, and to expand beyond as we evolve.\n\nWe will also natively supporting a lot of the functionality that subreddits currently build into the sidebar via a widget system. For instance, a calendar widget will allow subreddits to easily display upcoming events. We\u2019d like this feature and many like it to be accessible to all communities.\n\nHow are we going to get there? We\u2019ll be working closely with as many of you as possible to design these features. The process will span the next few months. We have a lot of ideas already and are hoping you\u2019ll help us add and refine even more. The transition isn\u2019t going to be easy for everyone, so we\u2019ll assist communities that want help (i.e. we\u2019ll do it for you). u/powerlanguage will be reaching out for alpha testers.\n\n##**Mod Tools**\n\nMod tools have evolved over time to be some of the most complex parts of Reddit, both in terms of user experience and the underlying code.  We know that these tools are crucial for the maintaining the health of your communities, and  we know many of you who moderate very large subreddits depend on third-party tools for your work. Not breaking these tools is constantly on our mind (for better or worse).\n\nWe\u2019re in contact with the devs of Toolbox, and would like to work together to port it to the redesign. Once that is complete, we\u2019ll begin work on updating these tools, including supporting natively the most requested features from Toolbox.\n\nThe existing site and the redesigned site will run in parallel while we make these changes. That is, we don\u2019t have plans for turning off the current site anytime soon. If you depend on functionality that has not yet been transferred to the redesign, you will still have a way to perform those actions.\n\nWhile we have your attention\u2026 we\u2019re also growing our internal team that handles spam and bad-actors. Our current focus is on report abuse. We\u2019ve caught a lot of bad behavior. We hope you notice the difference, and we\u2019ll keep at it regardless.\n\n##**Moving Forward**\n\nWe know moderation can feel janitorial\u2013thankless and repetitive. Thank you for all that you do. Our goal is to take care much of that burden so you can focus on helping your communities thrive.\n\nBig changes are ahead. These are fundamental, core issues that we\u2019ll be grappling with together\u2013changes to how communities are managed and express identity are not taken lightly. We\u2019ll be giving you further details as we move forward, but wanted to give you a heads up early.\n\nThanks for reading.\n\nupdate: now that I've cherry-picked all the easy questions, I'm going to take off and leave the hard ones for u/powerlanguage. I'll be back in a couple hours.",
+      "link": "https://reddit.com/r/modnews/comments/66q4is/the_web_redesign_css_and_mod_tools/"
+    },
+    {
+      "type": "post",
+      "title": "Goodbye, Chad!",
+      "text": "I am sad to share that u/deimorz is leaving Reddit (just the company, not the site, hopefully). Chad joined us back in 2013 when the company was only about ten people. He is the author of AutoModerator, which enabled Reddit to grow to its current size, and he is the creator of r/SubredditSimulator, which will ensure our survival after you are all gone. If you have spent any time in r/bugs, r/help, r/ModSupport, r/AutoModerator, r/modhelp, r/redditdev, r/Games, r/TheoryOfReddit, and many others, you have probably met Chad and have likely been helped by him.\n\nChad, Reddit would not be what it is today without you, and we will miss you dearly. Best of luck out there!",
+      "link": "https://reddit.com/r/modnews/comments/57iq2z/goodbye_chad/"
+    },
+    {
+      "type": "post",
+      "title": "A New Challenger Appears!",
+      "text": "Today we are excited to announce that [Philippe Beaudette](https://www.reddit.com/u/AchievementUnlockd) has joined us to lead our Community team. He comes from Wikipedia by way of Wikia. At the Wikimedia Foundation (which hosts and supports Wikipedia, among other sites) he was responsible for the team that did community management, user trust and safety, and strategic change management, guiding the community through a time of immense growth and maturation. He spent almost 7 years there, as one of their first community hires, and managed to have his fingers on a huge number of projects, from fundraising (raising money from nearly every country in the world and accepting Wikipedia\u2019s first donation from Antarctica) to community governance and their international elections processes\u2013while dealing with communities working in almost 200 different languages.  He\u2019s particularly proud to have led their community interactions around a worldwide [24 hour site shut-down](http://www.huffingtonpost.com/2012/01/17/wikipedia-blackout_n_1212096.html?slideshow=true) to drive awareness of the SOPA bill two years ago, an effort that Reddit also joined.\n\nAfter leaving Wikipedia, Philippe joined Wikia and ran the Community Support and Engagement team there, supporting Wikia\u2019s 350,000 fan-created communities. We are honored to have him on our team. Please welcome Philippe!\n\nIn addition to Philippe, we have brought on an additional five members to the Community and Trust and Safety teams this week. See if you can collect them all!",
+      "link": "https://reddit.com/r/ModSupport/comments/4iwobz/a_new_challenger_appears/"
+    },
+    {
+      "type": "post",
+      "title": "Admin released from captivity, reintroduced to Reddit community",
+      "text": "I am sad to share that u/krispykrackers is leaving Reddit. Over the past five years, she has done an incredible amount of work for us and the Reddit community. She has been the face of our Community team at Reddit; helped us write many of our policies and was indispensable working through countless tricky situations; and she lead our efforts in support of Extra Life, raising hundreds of thousands of dollars for Children\u2019s Miracle Network Hospitals. She has been a friend to me and many others here. While we are sad to see her go, we wish her the best going forward.\n\nActually replacing Kristine is impossible, but next Monday, four (maybe five!) new members of our Community and Trust and Safety teams will be starting, which will give the team even more horsepower.",
+      "link": "https://reddit.com/r/ModSupport/comments/4hwe15/admin_released_from_captivity_reintroduced_to/"
+    },
+    {
+      "type": "post",
+      "title": "A few updates on what has been keeping us busy",
+      "text": "Hi All,\n\nI want to give you all an update with the things that are keeping us busy, and hopefully as a result, making you less busy:\n\n* **Spam**: Last quarter we saw a huge increase in spam, including a handful of heavy attacks. We diverted resources to combat this, and we have made quite a bit of progress, lowering user reported spam by over 60% from its high point last quarter. We still have plenty of work to do, but we are making steady progress. Removing as spam or reporting as such are still the most effective ways to help.\n\n* **Account Take-Overs** (ATOs): In response to our improved spam-fighting measures, the bad-guys have been targeting existing accounts, compromising them for the purpose of spamming and vote cheating. We are fighting ATOs on the engineering side, but ATOs also create a burden on our community team to notify affected users, send password reset emails, etc. We are working on automating the notification and recovery processes to free up our community managers. The root cause of the issue is poor passwords. Please use strong and unique passwords.\n\n* **Support Backlog**: Because of the aforementioned issues, our community team is swamped with support tickets. We are doing a good job keeping up with the incoming flow, but we do have a backlog that is taking time to work through. We are sorry for any delays. The good news is we have a number of new people joining the team over the next few weeks that will help.\n\n* **Modmail**: I am happy to report that we finally have a team dedicated to working on a new system for moderator mail. To this point, we have tried a number of approaches and have had a handful of false starts, but we have not made the sort of progress we would like. The current system is a series of hacks built on an old code base, and because of this, we have decided to build modmail as a new, separate system. This will allow us to develop it without disrupting your current workflows. We know this is where you spend a lot of your time, and we are working hard to make it more effective.\n\nWe appreciate all you do for Reddit as moderators, and we appreciate seeing the questions you ask in this community. We are particularly thankful for those of you who jump in and help the other moderators here and elsewhere.\n\n\u2013 The Reddit Team",
+      "link": "https://reddit.com/r/ModSupport/comments/4gh3yy/a_few_updates_on_what_has_been_keeping_us_busy/"
+    },
+    {
+      "type": "post",
+      "title": "Introducing new API terms",
+      "text": "Today we are introducing standardized [API Terms of Use](/wiki/api). You, our community of developers, are important to us, and have been instrumental to the success of the Reddit platform. First and foremost, we want to reaffirm our commitment to providing (and improving!) a public API.\n\nThere are a couple of notable changes to the API terms that I\u2019d like to highlight. The first is that we are requesting all users of the API to register with us. This provides a point of contact for when we have important updates to share; provides a point of contact for when things go wrong; and helps us prevent abuse.\n\nWe are also no longer requiring a special licensing agreement to use our API for commercial purposes. We do request that you seek approval for your monetization model in the registration process.\n\nWe have added clarity about the types of things that the API is not intended for\u2013namely applications that promote illegal activity, disrupt core Reddit functionality, or introduce security risks. But you weren\u2019t doing any of these things anyway.\n\nWe still require users of our API to comply with our User Agreement, Privacy Policy, API Usage Limits, and any other applicable laws or regulations. We will continue to require the use of OAuth2.  We understand moving to OAuth2 can take time, so we are giving developers until March 17th to make this change.\n\nWe look forward to working with you more to create great experiences for our communities. There are many wonderful projects built on our API, and we would love to see even more. Thank you for all that you do.\n\nYou can contact the api@reddit.com alias to ask questions about the API service.",
+      "link": "https://reddit.com/r/redditdev/comments/3xdf11/introducing_new_api_terms/"
+    },
+    {
+      "type": "post",
+      "title": "I am Steve Huffman, the new CEO of reddit. AMA.",
+      "text": "Hey Everyone, I'm Steve, aka spez, the new CEO around here. For those of you who don't know me, I founded reddit ten years ago with my college roommate Alexis, aka kn0thing. Since then, reddit has grown far larger than my wildest dreams. I'm so proud of what it's become, and I'm very excited to be back.\n\nI know we have a lot of work to do. One of my first priorities is to re-establish a relationship with the community. This is the first of what I expect will be many AMAs (I'm thinking I'll do these weekly).\n\nMy proof: it's me!\n\nedit: I'm done for now. Time to get back to work. Thanks for all the questions!",
+      "link": "https://reddit.com/r/IAmA/comments/3cxedn/i_am_steve_huffman_the_new_ceo_of_reddit_ama/"
+    }
+  ],
+  "comments": [
+    {
+      "type": "comment",
+      "text": "There's a message for all of us in this one.",
+      "link": "https://reddit.com/r/Snoo/comments/1ll8ago/snoo_first_try/mzyss3f/"
+    },
+    {
+      "type": "comment",
+      "text": "TFW you open Reddit at 3am.",
+      "link": "https://reddit.com/r/Snoo/comments/1ljn3d7/snoo_found_you/mzqqmaw/"
+    },
+    {
+      "type": "comment",
+      "text": "It's cute, but cell phones are not permitted in the museum.",
+      "link": "https://reddit.com/r/Snoo/comments/1lixlvp/snoo_recalling_and_celebrating_its_20_years/mzk0y62/"
+    },
+    {
+      "type": "comment",
+      "text": "I am prepared to see some truly blursed Snoos.",
+      "link": "https://reddit.com/r/Snoo/comments/1liliw4/whats_snoo_20th_cakeday_contest/mzdhh2m/"
+    },
+    {
+      "type": "comment",
+      "text": "Noted.",
+      "link": "https://reddit.com/r/AskReddit/comments/1l7l9fv/whats_something_everyone_should_completely_stop/mx2f9ja/"
+    },
+    {
+      "type": "comment",
+      "text": "I\u2019d tap that link but I don\u2019t want phish recommendations in my feed.",
+      "link": "https://reddit.com/r/RedditIPO/comments/1l4ru0o/reddit_answers_is_great_feedback_after_7_days_of/mwd54lp/"
+    },
+    {
+      "type": "comment",
+      "text": "Hey thanks for the feedback. Glad you\u2019re liking it so far! We\u2019re working to make Answers better, and to better integrate it into the app.\n\nAnother type of query that I\u2019ve found works well is realtime subjective questions like, \u201cwhat\u2019s the best seat at the sphere\u201d",
+      "link": "https://reddit.com/r/RedditIPO/comments/1l4ru0o/reddit_answers_is_great_feedback_after_7_days_of/mwc4ui5/"
+    },
+    {
+      "type": "comment",
+      "text": "This will be added to our next app release!",
+      "link": "https://reddit.com/r/ideasfortheadmins/comments/1kxyjfm/add_oldest_sorting_option_for_posts/mvtr8hj/"
+    },
+    {
+      "type": "comment",
+      "text": "My requests to be able to comment in here have finally been granted.",
+      "link": "https://reddit.com/r/RedditIPO/comments/1l2ez20/rddt_annual_shareholder_meeting_less_than_a_week/mvtptrc/"
+    },
+    {
+      "type": "comment",
+      "text": "That will be the nature of this call. We'll save the interesting stuff about the product and business for earnings, community AMA's, and [my posts](https://www.reddit.com/user/spez/comments/1kfciml/reddits_next_chapter_smarter_easier_still_human/).",
+      "link": "https://reddit.com/r/RedditIPO/comments/1l2ez20/rddt_annual_shareholder_meeting_less_than_a_week/mvtjzla/"
+    },
+    {
+      "type": "comment",
+      "text": "In the long run, I think there are a couple possible directions:\n\nA subreddit is single language and single culture (Most of Reddit historically, and a lot of Reddit today you may not see at all because it's not English). r/AskUK  might be an example.\n\n\\-or-\n\nA subreddit is translated into multiple languages but within a single culture / theme (I think this is what you're describing in this post). r/AskReddit is mostly English, but the theme\u2014answer interesting questions\u2014is cross-cultural, and even without translation you see people from all over the world spending time together in the same space.\n\nI think the answer is both over time, and probably some shades of grey in the middle. Regardless of where things land in the long run, there are two pieces of technology that are important: translation, which we are working on and is getting better and better, and a way for subreddits to gracefully subdivide, which we don't have a good solution for yet.",
+      "link": "https://reddit.com/r/TheoryOfReddit/comments/1kwpmln/what_is_the_future_of_multilingual_reddit/mulv4ch/"
+    },
+    {
+      "type": "comment",
+      "text": "Fuck spez",
+      "link": "https://reddit.com/r/AskReddit/comments/1kr5u0l/what_would_be_the_title_of_your_biography/mtc5iut/"
+    },
+    {
+      "type": "comment",
+      "text": "Regulation: We do our best to advocate for good Internet laws in the US and around the world. For example, we spent a lot of time with regulators around the world on age verification. Knowing they were going to 100% make an age verification law, we fought and continue to fight to make sure that platforms like Reddit will not be required ever see, let alone store, your ID. I don't want your ID to ever pass through our infrastructure. The only way to make sure your ID will never be used, viewed, hacked, or subpoenaed is to never have it in the first place. We tell the regulators that it requires a certain sophistication to even know you're being hacked, and even still, everyone will get hacked eventually, so don't make every company be a target for hackers.\n\nCSS: Custom CSS did a lot of things, but making subreddits prettier was not one of them.\n\nEdit: typo",
+      "link": "https://reddit.com/r/u_spez/comments/1kfciml/reddits_next_chapter_smarter_easier_still_human/mqswhj2/"
+    },
+    {
+      "type": "comment",
+      "text": "Reddit Answers is not a replacement for conversations. It's a replacement for post + comment based searching. While traditional post-based searching is getting better on Reddit, it will always be something of a hassle. Reddit Answers is simply better\u2014even in the first version\u2014at mining all of Reddit, synthesizing the results, and showing not just an answer, but lots of possible answers. And since it mostly responds with verbatim quotes from Reddit comments, you can go directly to the right conversation. It's also an effective way to discover new subreddits\u2014better than just about anything else we have for that so far. I asked it, \"what's the best reading order for discworld?\" and beyond the answer, it also recommended r/books, r/discworld, and r/Fantasy.",
+      "link": "https://reddit.com/r/u_spez/comments/1kfciml/reddits_next_chapter_smarter_easier_still_human/mqsskka/"
+    },
+    {
+      "type": "comment",
+      "text": "Longer term bots will continue to be welcome as long as they are labeled as such. I even think there is a roll for AI agent bots, as long as it's super clear what it is and subreddits have control over whether they are allowed or not. The solution to most things is transparency and intentionality. Transparency means it should be labeled, and intentionality means it should be optional.",
+      "link": "https://reddit.com/r/u_spez/comments/1kfciml/reddits_next_chapter_smarter_easier_still_human/mqq8r8e/"
+    },
+    {
+      "type": "comment",
+      "text": "We continually update with minor changes and bug fixes. If you send me specific issues you're hitting, big or small, we will take a look.\n\nLonger term, we are exploring a larger refresh to address things like the insane clunkiness between feed-&gt;video-&gt;comments.",
+      "link": "https://reddit.com/r/u_spez/comments/1kfciml/reddits_next_chapter_smarter_easier_still_human/mqq8fu0/"
+    },
+    {
+      "type": "comment",
+      "text": "What did you prefer about new reddit (aka slightly old reddit)? shreddit (aka new new reddit) is much easier to adapt.",
+      "link": "https://reddit.com/r/u_spez/comments/1kfciml/reddits_next_chapter_smarter_easier_still_human/mqq85jb/"
+    },
+    {
+      "type": "comment",
+      "text": "[This](https://web.archive.org/web/19970322055948/http://www.lysator.liu.se/etexts/) was the beginning of the internet for me. I used to access it from the public library after school. I can draw a straight line from reading this stuff to working on Reddit today.",
+      "link": "https://reddit.com/r/ModSupport/comments/vzy7tk/we_might_be_laughing_a_bit_too_loud_aw_but_that/igbac4t/"
+    },
+    {
+      "type": "comment",
+      "text": "It's Reddit and nobody has mentioned Weird Al yet?\n\n'twas my first concert. Maybe not the best, but definitely not the worst.",
+      "link": "https://reddit.com/r/ModSupport/comments/usilou/coming_to_you_liveon_a_wednesday/i93zx7u/"
+    },
+    {
+      "type": "comment",
+      "text": "Red vines. I grew up on the east coast with Twizzlers and had a hard time transitioning, but Red Vines are clearly superior. But if you want to know the best licorice, it's Good &amp; Plenty.\n\nJelly Belly's are disgusting, which shouldn't be a controversial statement considering they are designed to be disgusting. Last year at my house we went through a phase where we and some guests ate a lot of Jelly Belly's for about a week. We all got a terrible stomach bug (i.e. both ends at the same time) that we now refer to as \"the jelly belly.\" Never again.",
+      "link": "https://reddit.com/r/ModSupport/comments/ryer5p/mud_flowed_up_into_lumps_pajamas_she_totally/hroelsq/"
+    },
+    {
+      "type": "comment",
+      "text": "Enjoy this cake day as it might be your last.",
+      "link": "https://reddit.com/r/ModSupport/comments/rwsa4y/i_come_bearing_cake/hrdseug/"
+    },
+    {
+      "type": "comment",
+      "text": "Cottage cheese is the perfect food.",
+      "link": "https://reddit.com/r/ModSupport/comments/q8w59q/i_came_to_get_a_case_of_factory_outlet_beer_then/hgsd3e4/"
+    },
+    {
+      "type": "comment",
+      "text": "It gets way better, and I'm not only sure you will love it, but I think you will finish with it being one of your favorite shows.",
+      "link": "https://reddit.com/r/ModSupport/comments/pzdc7x/dogs_in_the_moonlight_far_away_in_my_welllit_door/hf0kd4r/"
+    },
+    {
+      "type": "comment",
+      "text": "\ud83d\ude10",
+      "link": "https://reddit.com/r/ModSupport/comments/phb2up/its_early_in_the_morning_about_a_quarter_til/hbhuafj/"
+    },
+    {
+      "type": "comment",
+      "text": "Most people do. I did not until last year. Game changer.",
+      "link": "https://reddit.com/r/ModSupport/comments/phb2up/its_early_in_the_morning_about_a_quarter_til/hbhpx8f/"
+    },
+    {
+      "type": "comment",
+      "text": "This poll is flawed. It's missing a middle option, \"Coffee is a drug, but I drink it for the side effects and maintaining a coffee addiction isn't too hard.\"\n\nAlso, not sure if anyone else had tried this because it's a little weird: put milk in your coffee. It turns coffee from a bitter poison to a delicious balanced meal.",
+      "link": "https://reddit.com/r/ModSupport/comments/phb2up/its_early_in_the_morning_about_a_quarter_til/hbhmscu/"
+    },
+    {
+      "type": "comment",
+      "text": "Background: Four years ago, I met Jim over lunch, and he told me his and Taylor\u2019s story and how through GameChanger they were bringing joy to sick kids all over the country. I\u2019ve found their passion and optimism to be both contagious and inspiring.\n\nHi Jim!\n\nWhen you look back on the past 15 years, what are you the most proud of? And when you\u2019re looking back on the next 15 years, what do you hope to see?",
+      "link": "https://reddit.com/r/IAmA/comments/nmfg8x/im_jim_carol_founder_and_ceo_of_gamechanger/gzof6q0/"
+    },
+    {
+      "type": "comment",
+      "text": "Spicy just isn't fun anymore since it hurts more coming out than it does going in.",
+      "link": "https://reddit.com/r/ModSupport/comments/m8pj2g/so_tell_me_what_you_want_what_you_really_really/grivhb5/"
+    },
+    {
+      "type": "comment",
+      "text": "Pretty good. It's one of my favorite glasses. Lucky find.",
+      "link": "https://reddit.com/r/wallstreetbets/comments/lmxbr3/deleted_by_user/go1nkrg/"
+    },
+    {
+      "type": "comment",
+      "text": "I was actually just drinking water from [this glass](https://i.redd.it/fss85dsnlhi61.jpg), which I found at garage sale on my street with this [companion glass](https://i.redd.it/p35wswrhohi61.jpg).\n\nI quit drinking 1.5 years ago. It was probably the single best change I've made in my life. Huge thank you to r/stopdrinking. Couldn't have done it without you all.\n\nCan't explain the multi-sized eyes.",
+      "link": "https://reddit.com/r/wallstreetbets/comments/lmxbr3/deleted_by_user/go1ixbd/"
+    }
+  ]
+}
